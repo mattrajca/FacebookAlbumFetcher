@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'FacebookAlbumFetcher' target in the 'FacebookAlbumFetcher' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+#endif
